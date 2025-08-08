@@ -4,6 +4,12 @@
 // and then puts it back into the beauty pass.
 // ============================================================================
 
+
+/********************************/
+/*   Emanuele Comotti @2025     */
+/********************************/
+
+
 kernel GradeAOVOpt : ImageComputationKernel<ePixelWise> // Declare kernel, runs once per pixel
 {
   // -----------------------------
