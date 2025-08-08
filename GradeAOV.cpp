@@ -9,6 +9,8 @@
 /*   Emanuele Comotti @2025     */
 /********************************/
 
+// MAJOR NOTES :
+// No BBOX handling, only merge together with biggest, ROI not supported.
 
 kernel GradeAOVOpt : ImageComputationKernel<ePixelWise> // Declare kernel, runs once per pixel
 {
