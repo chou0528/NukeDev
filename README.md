@@ -1,4 +1,5 @@
 # NukeDev
 Nuke Dev
 
-Personal Playground...Stuff...
+
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2f6b050e-a873-474b-8cd1-13f42cd6d33b" />
